@@ -1,0 +1,10 @@
+{
+  "name": "myapp",
+  "scripts": {
+    "dev": "nuxt",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.8.1"
+  }
+}
