@@ -7,7 +7,7 @@ import _6f6c098b from './layouts/default.vue'
 const layouts = { "_default": _6f6c098b }
 
 export default {
-  head: {"htmlAttrs":{"lang":"ja"},"meta":[{"charset":"utf-8"}],"title":"Hello Nuxt","link":[{"rel":"favicon","href":"http:\u002F\u002Fmasatolan.com\u002Ffavicon.ico"}],"script":[{"src":"https:\u002F\u002Fcdnjs.cloudflare.com\u002Fajax\u002Flibs\u002Feruda\u002F1.5.6\u002Feruda.min.js"}],"style":[]},
+  head: {"htmlAttrs":{"lang":"ja"},"meta":[{"charset":"utf-8"}],"title":"Hello Nuxt","script":[{"src":"https:\u002F\u002Fcdnjs.cloudflare.com\u002Fajax\u002Flibs\u002Feruda\u002F1.5.6\u002Feruda.min.js"}],"link":[],"style":[]},
 
   render(h, props) {
     const loadingEl = h('NuxtLoading', { ref: 'loading' })
